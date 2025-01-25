@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I strongly believe that AI, rather than only mimicking the human brain, has a huge potential of discovering the latent laws of nature with the potential to help us understand the reality better.
+Passionate about AI Research
 
 Broadly, I am interested in **Vision and Language Models**, with a niche focus on **Generative Learning**, **3D Vision**, and **Multimodal Machine Learning**.
 
